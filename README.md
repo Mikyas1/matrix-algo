@@ -1,3 +1,3 @@
-# Some interesting Matrix challenges and algorithms
+# Backtrack Path Finding
 
-### Each challenge and algorithm is contained in a separate branch 
+### Implementation in Golang
