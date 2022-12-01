@@ -1,3 +1,3 @@
-# Some interesting Matrix challenges and algorithms
+# River Sizes 
 
-### Each challenge and algorithm is contained in a separate branch 
+### Implementation with Go 
